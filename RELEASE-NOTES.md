@@ -1,3 +1,7 @@
+#### Bugs
+
+- **Embed** - Remove accidental `console.log` statements in js [#2760](https://github.com/Semantic-Org/Semantic-UI/issues/2760)
+
 ### Version 2.0.0 - June 30, 2015
 
 - **Video** - The undocumented `video` module has been renamed to `embed`. Behaviors remain the same, but users need to adjust their javascript init to `$('.ui.embed').embed();`
