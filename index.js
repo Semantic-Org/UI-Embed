@@ -1,5 +1,5 @@
 /*!
- * # Semantic UI 2.1.2 - Video
+ * # Semantic UI 2.1.3 - Video
  * http://github.com/semantic-org/semantic-ui/
  *
  *
@@ -628,7 +628,7 @@ _module.exports.settings = {
   templates: {
     iframe : function(url, parameters) {
       return ''
-        + '<iframe src="' + url + '?=' + parameters + '"'
+        + '<iframe src="' + url + '?' + parameters + '"'
         + ' width="100%" height="100%"'
         + ' frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>'
       ;
