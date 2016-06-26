@@ -1,3 +1,7 @@
+### Version 2.2.0 - June 26, 2016
+
+- **Embed** - `API` setting is now disabled by default
+
 ### Version 2.1.3 - Sep 03, 2015
 
 - **Embed** - Fixes issue with `?=` appearing before parameters instead of `?` [#2956](https://github.com/Semantic-Org/Semantic-UI/issues/2956) **Thanks @AgentShark**
