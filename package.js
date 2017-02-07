@@ -2,7 +2,7 @@
 Package.describe({
   name    : 'semantic:ui-embed',
   summary : 'Semantic UI - Embed: Single component release',
-  version : '2.2.6',
+  version : '2.2.7',
   git     : 'git://github.com/Semantic-Org/UI-Embed.git',
 });
 
