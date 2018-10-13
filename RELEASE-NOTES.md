@@ -1,3 +1,7 @@
+### Version 2.4.1 - Oct 13, 2018
+
+- **Embed** - Embed will now correctly remove DOM metadata on `destroy`
+
 ### Version 2.2.0 - June 26, 2016
 
 - **Embed** - `API` setting is now disabled by default
